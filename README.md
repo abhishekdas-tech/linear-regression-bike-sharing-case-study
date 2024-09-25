@@ -1,4 +1,4 @@
-# Loan Default Prediction Project
+# Linear Regression - BikeSharing case Study
 > The goal of this case study is to analyze the factors influencing the demand for shared bikes in the American market post the COVID-19 pandemic.
 
 
